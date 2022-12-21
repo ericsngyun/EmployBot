@@ -1,0 +1,27 @@
+{
+  "name": "employbot",
+  "version": "1.0.0",
+  "description": "AIO Discord Bot with primary functionality including tools to keep users motivated and organized for the job hunt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericsngyun/EmployBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericsngyun/EmployBot/issues"
+  },
+  "homepage": "https://github.com/ericsngyun/EmployBot#readme",
+  "dependencies": {
+    "@discordjs/rest": "^1.5.0",
+    "chalk": "^5.2.0",
+    "discord-api-types": "^0.37.24",
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3"
+  }
+}
